@@ -1,0 +1,10 @@
+{
+  "name": "Veronika Token",
+  "symbol": "VNK",
+  "description": "Учебный токен для лабораторной работы по Solana",
+  "image": "https://placekitten.com/400/400",
+  "attributes": [
+    { "trait_type": "Course", "value": "Solana Advanced Ops" },
+    { "trait_type": "Creator", "value": "Veronika" }
+  ]
+}
